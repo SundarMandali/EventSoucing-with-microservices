@@ -1,4 +1,4 @@
-# EventSoucing-with-microservices
+# EventSourcing-with-microservices
 EventSourcing with Microservices using Springboot and Apache Kafka
  
 Event Sourcing with Microservices
